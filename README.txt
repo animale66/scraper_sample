@@ -16,7 +16,8 @@ README documentation goes here
 
 # Build Instructions:
 
-	To build the container, run 'make'
+	First, cd into the directory.
+	Then build the container by running 'make'
 
 # To start the container (using docker)
 
